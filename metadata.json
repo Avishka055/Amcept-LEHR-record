@@ -1,0 +1,10 @@
+{
+  "name": "Antonini Lehr-01 Auto Temp Log",
+  "description": "AI-powered Siemens HMI photo scanner and hourly temperature logging app for Antonini Lehr-01 (TC-3 to TC-13 PV/SV and Mat Speed).",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

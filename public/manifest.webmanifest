@@ -1,0 +1,32 @@
+{
+  "id": "/",
+  "name": "Amcept Lehr Auto Temp Log",
+  "short_name": "Amcept Lehr",
+  "description": "AI-powered Siemens HMI photo scanner and hourly temperature logging app for Amcept Lehr.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#0F172A",
+  "background_color": "#F4F5F7",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "operators": [
+    {
+      "id": "op-avishka",
+      "name": "Avishka",
+      "code": "OP-101",
+      "shift": "Morning",
+      "role": "Lehr Operator"
+    },
+    {
+      "id": "op-kasun",
+      "name": "Kasun Perera",
+      "code": "OP-102",
+      "shift": "Morning",
+      "role": "Lehr Operator"
+    },
+    {
+      "id": "op-nimal",
+      "name": "Nimal Silva",
+      "code": "OP-103",
+      "shift": "Evening",
+      "role": "Shift Technician"
+    },
+    {
+      "id": "op-ruwan",
+      "name": "Ruwan Kumara",
+      "code": "OP-104",
+      "shift": "Night",
+      "role": "Night Operator"
+    }
+  ],
+  "logs": []
+}
